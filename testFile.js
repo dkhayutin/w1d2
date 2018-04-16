@@ -1,4 +1,4 @@
-var getHTML =require('./http-function.js')
+var getHTML =require('./../http-function.js')
 
 function printHTML(html) {
 console.log(html)
